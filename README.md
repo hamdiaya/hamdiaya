@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdi Aya</h1>
-<h3 align="center">A passionate backend developer with frontend skills and a growing enthusiasm for AI and machine learning, from Algeria.</h3>
+<h3 align="center">AI enthusiast with growing skills in the field and a solid background as a web developer from Algeria.</h3>
 
 - 🌱 I’m currently learning **AI technologies**
 
